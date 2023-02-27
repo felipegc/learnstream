@@ -7,4 +7,4 @@ This repo contains exercises using java streams. They are all based on this post
 It is using springboot with JPA in order to fetch different entities from a H2 database instance.
 
 -   jpa package: contains models and repos;
-- StreamApiTest: contains the exercises which manipulate using stream against the entities fetched from database.
+- StreamApiTest: contains the exercises which manipulate the entities fetched from database using java streams.
